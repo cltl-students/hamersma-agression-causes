@@ -1,0 +1,69 @@
+VIM id|Sentence identifier|Chunk identifier|Chunk|Prediction|True label
+1038|1038-1|1038-1-1|gedeelte uit rapportage :|neg|neg
+1038|1038-1|1038-1-2|o meneer was in de ochtend vroeg in beeld .|neg|neg
+1038|1038-2|1038-2-1|toen begeleider meneer vroeg of hij zijn medicatie in wilde nemen|neg|neg
+1038|1038-2|1038-2-2|ageerde meneer s|neg|neg
+1038|1038-2|1038-2-3|en begon hij een monoloog tegen begeleider|neg|neg
+1038|1038-2|1038-2-4|“ ik wil die medicijnen zelf in beheer hebben .|neg|neg
+1038|1038-3|1038-3-1|jullie behandelen mij als een klein kind ! ”|neg|neg
+1038|1038-3|1038-3-2|o toen begeleider meneer zijn medicatie gaf|neg|neg
+1038|1038-3|1038-3-3|nam hij het mee naar het aanrecht .|neg|neg
+1038|1038-4|1038-4-1|p ondergetekende wilde zien of meneer het daadwerkelijk allemaal in nam en benoemde dit ook naar meneer|neg|neg
+1038|1038-4|1038-4-2|o toen begeleider dichterbij kwam|neg|neg
+1038|1038-4|1038-4-3|nam meneer slechts een paar pillen|neg|neg
+1038|1038-4|1038-4-4|en wierp de rest door de gootsteen|neg|neg
+1038|1038-4|1038-4-5|waaronder de nozinan .|neg|neg
+1038|1038-4|1038-4-6|en de haldol|neg|neg
+1038|1038-5|1038-5-1|s later vroeg meneer of hij de haldol alsnog mocht hebben .|neg|neg
+1038|1038-6|1038-6-1|o toen begeleider meneer deze aanbood|neg|neg
+1038|1038-6|1038-6-2|nam meneer ze aan .|neg|neg
+1038|1038-6|1038-6-3|en wilde hij zijn kamerdeur dicht doen|neg|neg
+1038|1038-7|1038-7-1|p ondergetekende gaf opnieuw aan dat meneer de medicatie onder toezicht in hoort te nemen .|neg|neg
+1038|1038-8|1038-8-1|o meneer nam ze in|neg|neg
+1038|1038-8|1038-8-2|maar liep begeleider luid orerend de kamer uit .|neg|neg
+1038|1038-9|1038-9-1|p ondergetekende nam afstand uit .|neg|neg
+1038|1038-9|1038-9-2|en met zijn gezicht richting meneer de kamer|neg|neg
+1038|1038-10|1038-10-1|o toen begeleider de kamer uit was|neg|neg
+1038|1038-10|1038-10-2|trapte meneer richting begeleider|pos|pos
+1038|1038-10|1038-10-3|die de trap maar net af kon weren met zijn handen .|neg|neg
+1038|1038-11|1038-11-1|s|neg|neg
+1038|1038-11|1038-11-2|“ jullie zijn allemaal kankerlijers . ”|neg|neg
+1038|1038-11|1038-11-3|en jullie willen me gewoon pesten met die medicatie|neg|neg
+1038|1038-11|1038-11-4|p meneer is even later met twee man op zijn kamer bezocht :|neg|neg
+1038|1038-11|1038-11-5|en hem is uitgelegd dat dit niet de manier is hoe men met elkaar om gaat|neg|neg
+1038|1038-11|1038-11-6|zowel het schoppen niet .|neg|neg
+1038|1038-11|1038-11-7|als het schelden|neg|neg
+1038|1038-12|1038-12-1|meneer heeft een time-out van een half uur gekregen .|neg|neg
+1038|1038-13|1038-13-1|o meneer nam deze to|neg|neg
+1038|1038-13|1038-13-2|bleef goed op zijn kamer .|neg|neg
+1038|1038-14|1038-14-1|s na de to kwam meneer vragen of hij van zijn kamer af mocht .|neg|neg
+1038|1038-15|1038-15-1|ook bood meneer zijn excuses aan .|neg|neg
+1337|1337-1|1337-1-1|mevrouw was de afgelopen dagen al grensoverschrijdend in contact naar collega en medebewoners .|neg|neg
+1337|1337-2|1337-2-1|mw kuste bv mede clienten ongevraagd op hun mond .|neg|neg
+1337|1337-2|1337-2-2|en zat fysiek met haar handen aan collega in deze tijd van corona|neg|neg
+1337|1337-3|1337-3-1|mw was tevens verbaal agressief .|neg|neg
+1337|1337-4|1337-4-1|vanaf het moment dat mw op de afdeling kwam vertoonde ze al verbaal en fysiek grensoverschrijdend gedrag .|neg|neg
+1337|1337-5|1337-5-1|zoals hierboven beschreven .|neg|neg
+1337|1337-6|1337-6-1|op het moment dat werd gevraagd aan mw om naar haar kamer te gaan|neg|neg
+1337|1337-6|1337-6-2|weigerde ze dit .|neg|neg
+1337|1337-7|1337-7-1|na een aantal keer mw te hebben verzocht om naar haar kamer te gaan|neg|neg
+1337|1337-7|1337-7-2|vloog mw een verpleegkundige aan .|neg|pos
+1337|1337-8|1337-8-1|mw begon te slaan en te schoppen|neg|pos
+1337|1337-8|1337-8-2|ook naar andere collega|neg|neg
+1337|1337-8|1337-8-3|toe.nadat ze werd beetgepakt bleef ze hiermee doorgaan .|neg|not annotated
+1337|1337-9|1337-9-1|mw is naar haar kamer begeleid .|neg|neg
+1337|1337-9|1337-9-2|en werd steeds agressiever|neg|neg
+1337|1337-10|1337-10-1|ondertussen was het persoonsalarm ingedrukt waarna collega kwamen ondersteunen .|neg|neg
+1337|1337-11|1337-11-1|tevens politie ingeschakeld|neg|neg
+1337|1337-11|1337-11-2|omdat mw niet tot bedaren gebracht kon worden .|neg|neg
+1337|1337-12|1337-12-1|behandelaar is gekomen .|neg|neg
+1337|1337-12|1337-12-2|en is met mw in gesprek gegaan|neg|neg
+1337|1337-13|1337-13-1|met client was afgesproken dat mw op haar kamer bleef en mw kreeg een 1 mg lorazepam .|neg|neg
+1337|1337-14|1337-14-1|behandelaar zou gaan overleggen|neg|neg
+1337|1337-14|1337-14-2|ondertussen hield mw zich niet aan de afspraken .|neg|neg
+1337|1337-14|1337-14-3|en mw kwam weer de afdeling op|neg|neg
+1337|1337-15|1337-15-1|mw maakte provocerende gebaren naar de verpleging .|neg|neg
+1337|1337-15|1337-15-2|en stak hierbij de middelvinger op en mw ging haar verhaal doen bij mede clienten|pos|neg
+1337|1337-16|1337-16-1|deze zoende zij ook .|neg|neg
+1337|1337-17|1337-17-1|na overleg is besloten om mw met behulp van politie en ambulance over te plaatsen .|neg|neg
+1337|1337-18|1337-18-1|mw is al scheldend vertrokken .|neg|neg
